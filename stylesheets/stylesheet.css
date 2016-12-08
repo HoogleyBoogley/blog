@@ -422,6 +422,7 @@ Small Device Styles
 
 /* Styling */
 .dan_header {
+  height: 50px;
   width: 100%;
   background-color: #3498db;
   text-align: center;
